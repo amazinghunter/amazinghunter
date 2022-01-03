@@ -1,7 +1,7 @@
 ### Olá, Eu Sou Gabriel Fischer!
 
 - 🔭 Atualmente estou trabalhando como estagiário em Suporte Técnico
-- 🌱 Etudando Sistemas de Informação pela FHO - Fundação Hermíneio Ometto ...
+- 🌱 Estudando Sistemas de Informação pela FHO - Fundação Hermíneio Ometto ...
 - 📫 Contate-me no e-mail: gfischer.dev@gmail.com
 
 <div align="center">
