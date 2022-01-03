@@ -14,8 +14,6 @@
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="![giphy](https://user-images.githubusercontent.com/85202283/147959960-c79856f2-eeb0-406b-8b4d-e8e90f022082.gif)
-">
 </div>
   
   ##
