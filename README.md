@@ -13,7 +13,7 @@
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif">
+  <img align="right" alt="Gab-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif?cid=790b76116da9ee512a4167b7f883928e1ea6dddadfee8ad5&rid=giphy.gif&ct=g">
 </div>
   
   ##
