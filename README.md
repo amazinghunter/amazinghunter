@@ -1,3 +1,4 @@
+![gato brincando](https://user-images.githubusercontent.com/85202283/165524916-948a7631-1e1b-460e-9a1f-903f38f9eec5.gif)
 <h1 align="center">Olá <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, Eu sou Gabriel Fischer!</h1>
 
 <img align="right" alt="Coding" width="300" src="https://wallpaperaccess.com/full/869923.gif">
