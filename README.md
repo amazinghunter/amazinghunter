@@ -1,5 +1,6 @@
 <h1 align="center">Olá <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, Eu sou Gabriel Fischer!</h1>
 
+<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/869923.gif">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=devgfischer&label=PROFILE+VIEWS&color=brightgreen&style=plastic alt="devgfischer"  /> </p>
 
 [![GitHub devgfischer](https://img.shields.io/github/followers/devgfischer?style=social)](https://github.com/devgfischer)
