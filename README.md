@@ -7,7 +7,7 @@
 [![GitHub devgfischer](https://img.shields.io/github/followers/devgfischer?style=social)](https://github.com/devgfischer)
 
 - 🔭 Atualmente estou trabalhando como estagiário em Suporte Técnico
-- 🌱 Estudando Sistemas de Informação pela FHO - Fundação Hermíneio Ometto ...
+- 🌱 Estudando Sistemas de Informação pela FHO - Fundação Hermíneio Ometto 
 
 ##
 
