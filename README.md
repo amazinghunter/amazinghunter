@@ -1,7 +1,6 @@
 <img aligh="center" height="240" width="1500" src="https://cdnb.artstation.com/p/assets/images/images/037/692/017/original/julie-lafille-intro-final-1.gif?1621051100">
 <h1 align="center">Olá <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, Eu sou Gabriel Fischer!</h1>
 
-<img align="right" alt="Coding" width="300" src="https://wallpaperaccess.com/full/869923.gif">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=devgfischer&label=PROFILE+VIEWS&color=brightgreen&style=plastic alt="devgfischer"  /> </p>
 
 [![GitHub devgfischer](https://img.shields.io/github/followers/devgfischer?style=social)](https://github.com/devgfischer)
@@ -14,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/devgfischer">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devgfischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgfischer&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devgfischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgfischer&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
