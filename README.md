@@ -5,9 +5,10 @@
 
 [![GitHub devgfischer](https://img.shields.io/github/followers/devgfischer?style=social)](https://github.com/devgfischer)
 
-- 👨‍💻 Atualmente estou trabalhando como estagiário em Suporte Técnico
-- 👨‍🎓 Estudando Sistemas de Informação pela FHO - Fundação Hermíneio Ometto
-- 📚 Aspirante a DataAnalytics - Database - Estudando Python para Análise de Dados 
+- 👨‍💻 Atualmente trabalho como Analista de TI na Empresa Viman Sistemas
+- 👨‍🎓 Estudando Sistemas de Informação pela FHO - Fundação Hermíneio Ometto (turma - 2021)
+- 👨‍💻 Tenho conhecimentos em Redes e Infraestrutura - Hardware - Windows - Linux
+- 📚 Cibersecurity Student - Windows - Linux - SQL - Python
 
 ##
 
