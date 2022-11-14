@@ -8,7 +8,7 @@
 - 👨‍💻 Atualmente trabalho como Analista de TI na Empresa Viman Sistemas
 - 👨‍🎓 Estudando Sistemas de Informação pela FHO - Fundação Hermíneio Ometto (turma - 2021)
 - 👨‍💻 Tenho conhecimentos em Redes e Infraestrutura - Hardware - Windows - Linux
-- 📚 Cibersecurity Student - Windows - Linux - SQL - Python
+- 📚 CiberSecurity Student - Windows - Linux - Redes - SQL - Python
 
 ##
 
