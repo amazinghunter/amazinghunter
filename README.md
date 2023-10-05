@@ -6,7 +6,7 @@
 [![GitHub devgfischer](https://img.shields.io/github/followers/devgfischer?style=social)](https://github.com/devgfischer)
 
 - 👨‍💻 Atualmente trabalho como Analista de TI na Empresa Viman Sistemas
-- 👨‍🎓 Estudando Sistemas de Informação pela FHO - Fundação Hermíneio Ometto (turma - 2021)
+- 👨‍🎓 Estudando DEFESA CIBERNÉTICA pela FIAP
 - 👨‍💻 Tenho conhecimentos em Redes e Infraestrutura - Hardware - Windows - Linux
 - 📚 CiberSecurity Student - Windows - Linux - Redes - SQL - Python
 
