@@ -5,10 +5,10 @@
 
 [![GitHub devgfischer](https://img.shields.io/github/followers/devgfischer?style=social)](https://github.com/devgfischer)
 
-- 👨‍💻 Atualmente trabalho como Analista de TI na Empresa Viman Sistemas
-- 👨‍🎓 Estudando DEFESA CIBERNÉTICA pela FIAP
+- 👨‍💻 Atualmente estou na busca da minha primeira vaga em CyberSecurity
+- 👨‍🎓 Estudando DEFESA CIBERNÉTICA pela FIAP - Faculdade de Informática e Administração Paulista
 - 👨‍💻 Tenho conhecimentos em Redes e Infraestrutura - Hardware - Windows - Linux
-- 📚 CiberSecurity Student - Windows - Linux - Redes - SQL - Python
+- 📚 CiberSecurity Student - Windows - Linux - Redes - Python - Pentest - Ethical acking
 
 ##
 
@@ -18,8 +18,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgfischer&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Gab-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gab-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gab-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -32,6 +30,3 @@
   <a href = "mailto:gfischer.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielr-fischer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-  ![Snake animation](https://github.com/devgfischer/devgfischer/blob/output/github-contribution-grid-snake.svg)
- 
