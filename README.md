@@ -1,9 +1,10 @@
 ## Olá, sou Gabriel Fischer, granduando em Defesa Cibernética e cursando Pentest pela Desec
 
-- 👨‍💻 Atualmente estou na buscando oportunidades de crescimento profissional na área de CyberSecurity
-- 👨‍🎓 Atualmente estou aprendendo sobre Ethical Hacking - Python para Pentest - Scanning - BruteForce - hashes e senhas - Metasploit - Buffer Overflow - TCP/IP para Pentest - Análise de Vulnerabilidades - Análise de Logs
-- 📫 Como entrar em contato comigo: e-mail - gabriel.rfischer@gmail.com
-- ⚡ Curiosidade: nas horas vagas gosto de resolver laboratórios na plataforma TryHackMe
+- 🌱 I'm always learning new skills
+- 👨‍💻 I'm currently looking for professional opportunities in the CyberSecurity area
+- 👨‍🎓 I am currently learning about Ethical Hacking - Python for Pentest - Scanning - BruteForce - Hashes and Passwords - Metasploit - Buffer Overflow - TCP/IP for Pentest - Vulnerability Analysis - Log Analysis
+- 📫 Contact: gabriel.rfischer@gmail.com
+- ⚡ Focused on Pentest and offensive security
 
 ---
 
@@ -19,7 +20,7 @@
 
 ---
 
-  ## Contatos:
+  ## Contacts:
   
   <div>
   <a href = "mailto:gabriel.rfischer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
