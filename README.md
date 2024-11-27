@@ -1,4 +1,4 @@
-## Olá, sou Gabriel Fischer, granduando em Defesa Cibernética e cursando Pentest pela Desec
+## Olá, sou Gabriel, granduando em Defesa Cibernética e cursando Pentest pela Desec Security
 
 - 🌱 I'm always learning new skills
 - 👨‍💻 I'm currently looking for professional opportunities in the CyberSecurity area
