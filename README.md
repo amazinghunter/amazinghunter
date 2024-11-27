@@ -1,32 +1,23 @@
-<img aligh="center" height="240" width="1500" src="https://cdnb.artstation.com/p/assets/images/images/037/692/017/original/julie-lafille-intro-final-1.gif?1621051100">
-<h1 align="center">Olá <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, Eu sou Gabriel Fischer!</h1>
+## Olá, sou Gabriel Fischer, granduando em Defesa Cibernética e cursando Pentest pela Desec
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=devgfischer&label=PROFILE+VIEWS&color=brightgreen&style=plastic alt="devgfischer"  /> </p>
+- 👨‍💻 Atualmente estou na buscando oportunidades de crescimento profissional na área de CyberSecurity
+- 👨‍🎓 Atualmente estou aprendendo sobre Ethical Hacking - Python para Pentest - Scanning - BruteForce - hashes e senhas - Metasploit - Buffer Overflow - TCP/IP para Pentest - Análise de Vulnerabilidades - Análise de Logs
+- 📫 Como entrar em contato comigo: e-mail - gabriel.rfischer@gmail.com
+- ⚡ Curiosidade: nas horas vagas gosto de resolver laboratórios na plataforma TryHackMe
 
-[![GitHub devgfischer](https://img.shields.io/github/followers/devgfischer?style=social)](https://github.com/devgfischer)
-
-- 👨‍💻 Atualmente estou na busca da minha primeira vaga em CyberSecurity
-- 👨‍🎓 Estudando DEFESA CIBERNÉTICA pela FIAP - Faculdade de Informática e Administração Paulista
-- 👨‍💻 Tenho conhecimentos em Redes e Infraestrutura - Hardware - Windows - Linux
-- 📚 CiberSecurity Student - Windows - Linux - Redes - Python - Pentest - Ethical acking
-
-##
-
-<div align="center">
-  <a href="https://github.com/devgfischer">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devgfischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgfischer&layout=compact&langs_count=7&theme=dark"/>
-</div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gab-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gab-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Gab-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
-  
-  ##
+  <img align="center" alt="Gab-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="Gab-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Gab-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+  <img align="center" alt="Gab-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img align="center" alt="Gab-PowerShell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+  </div>
+
+  ## Contatos:
   
   <div>
-  <a href="https://instagram.com/gabrielf.biro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gfischer.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriel.rfischer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielr-fischer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  <img aligh="center" height="240" width="1500" src="https://cdnb.artstation.com/p/assets/images/images/037/692/017/original/julie-lafille-intro-final-1.gif?1621051100">
