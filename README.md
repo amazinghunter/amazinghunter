@@ -1,5 +1,11 @@
 ## Olá, sou Gabriel, granduando em Defesa Cibernética e cursando Pentest pela Desec Security
 
+---
+
+🚨 Em breve estarei populando meu GitHub com os laboratórios e Projetos da DESEC 🚨
+
+---
+
 - 🌱 I'm always learning new skills
 - 👨‍💻 I'm currently looking for professional opportunities in the CyberSecurity area
 - 👨‍🎓 I am currently learning about Ethical Hacking - Python for Pentest - Scanning - BruteForce - Hashes and Passwords - Metasploit - Buffer Overflow - TCP/IP for Pentest - Vulnerability Analysis - Log Analysis
