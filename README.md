@@ -13,7 +13,7 @@
 - ⚡ Focused on Pentest and offensive security
 
 ---
-
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Amazing.Hunter.png" alt="Your Image Badge" />
   <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="Gab-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
